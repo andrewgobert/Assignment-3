@@ -1,0 +1,25 @@
+﻿body{
+
+}
+
+.center {
+    vertical-align: middle;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    text-align: right;
+}
+
+label {
+    display: inline-block;
+    width: 300px;
+    text-align: right;
+}
+
+.val1 {
+    padding-left: 110px;
+}
+
+.val2 {
+    margin-left: 13px;
+}
